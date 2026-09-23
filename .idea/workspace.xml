@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c2d0766-d6ec-446f-804e-8bc57282e20e" name="Changes" comment="" />
+    <list default="true" id="2c2d0766-d6ec-446f-804e-8bc57282e20e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/JAVA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/casecheak.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/casecheak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/casecheakII.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/casecheakII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condi.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/condi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/countNumb.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/countNumb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findfibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/findfibo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j_input.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/j_input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/java1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/largest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/largest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathmax.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/mathmax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reversestring.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/reversestring.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,11 +35,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3JfO7PuoAdtk3E8orUnOWR7Q955" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,6 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,6 +80,12 @@
     "onboarding.tips.debug.path": "/Users/prince/IdeaProjects/java/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JAVA_NOTEZ/src" />
+      <recent name="$PROJECT_DIR$/JAVA_NOTEZ" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,7 +111,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/JAVA_NOTEZ/src/Main.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

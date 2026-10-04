@@ -5,23 +5,144 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c2d0766-d6ec-446f-804e-8bc57282e20e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/JAVA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/B_Ceiling_of_a_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/B_Floor_of_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/B_Infinite_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/B_Peak_Index_in_a_Mountain_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/B_Search_Index_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/B_Search_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/B_SmallestLetterGreaterThanTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/B_Split_Array_Largest_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/B_TF_Search_in_Rotated_Sorted_Array_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/B_target_Index_in_a_Mountain_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Back_Combination_Sum_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Back_Knight_Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Back_N_queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Back_Rec_Sub_with_dupli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Back_Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Back_Word_Exist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Back_maze_4D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Back_partition_palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Backtrack_maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Backtracking_rate_in_maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Bitwise_Find_the_Odd_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Bitwise_Find_the_Unique_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Circular_ll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Clone_deep_swollow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Comparable_compareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Comparator_lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/CountFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Create_own_Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Cycle_length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Cycle_length_start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Cyclic_Sort_Missing_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Cyclic_Sort_Missing_in_nums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Cyclic_many_dup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Cyclic_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Cyclic_sort_Set_Mismatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Cyclic_sort_Smallest_positive_int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Doubly_LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Doubly_LLll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Exception_Handling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/FindSecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/IntersectioTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Iterative_Subsets_Subsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/KadaneAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/LL_Merge_Two_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/LL_removeDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/LL_reorderList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/LinRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/LinearS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/LinearSearchArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/LinkList_single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Linked_list_cheak_PALINdrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/MaxLinear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Merge_two_ll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Middle_of_ll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/MinimumiLinear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Object_Cloning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_Abstract_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_Interface_DSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Otoend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Pattern_Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/REC_fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_0_to_n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Combination_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Duplicate_sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Letter_Combinations_Phone_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Product_of_n_to_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Revese_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Skip_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Subsequences_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Subsequences_with_ASCII_Values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec__n_to_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_all_subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_app_pl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_count_ero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_k_combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_merge_two_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_permu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_phone_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_quick_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_selection_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_skip_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_sorted_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Recursive_nsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/RemoveDup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Remove_Duplicates_ll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Reverse_LL_Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/ReverseanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/SOrt_linkl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Searchina2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Singly_ll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Sort_using_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_Check_Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_Count_Digits_Letters_Special_Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_Count_Frequency_of_a_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_Count_Vowels_and_Consonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_Count_Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_First_Non_Repeating_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_Remove_Duplicate_Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_Remove_Spaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_Reverse_Words_in_a_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/String_palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/b_First_last_index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/findAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/firstOccLinear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/happy_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/linklist_cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/twoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_NOTEZ/src/ArmsStrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/ArmsStrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_NOTEZ/src/ArraysMaximumMinimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/ArraysMaximumMinimum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_NOTEZ/src/FUNC.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/FUNC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_NOTEZ/src/FuncOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/FuncOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_NOTEZ/src/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_NOTEZ/src/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_NOTEZ/src/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/VarArgs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casecheak.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/casecheak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casecheakII.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/casecheakII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condi.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/condi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/countNumb.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/countNumb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findfibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/findfibo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j_input.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/j_input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/java1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/largest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/largest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mathmax.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/mathmax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reversestring.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_NOTEZ/src/reversestring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +152,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_count_ero.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0,
@@ -52,32 +180,160 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArmsStrongNumber.executor": "Run",
+    "Application.ArraysMaximumMinimum.executor": "Run",
+    "Application.B_Floor_of_Number.executor": "Run",
+    "Application.B_Infinite_Sorted_Array.executor": "Run",
+    "Application.B_Peak_Index_in_a_Mountain_Array.executor": "Run",
+    "Application.B_Search_Index_Rotated_Sorted_Array.executor": "Run",
+    "Application.B_Search_in_Rotated_Sorted_Array.executor": "Run",
+    "Application.B_SmallestLetterGreaterThanTarget.executor": "Run",
+    "Application.B_Split_Array_Largest_Sum.executor": "Run",
+    "Application.B_TF_Search_in_Rotated_Sorted_Array_II.executor": "Run",
+    "Application.B_target_Index_in_a_Mountain_Array.executor": "Run",
+    "Application.Back_Combination_Sum_II.executor": "Run",
+    "Application.Back_Knight_Move.executor": "Run",
+    "Application.Back_N_queens.executor": "Run",
+    "Application.Back_Rec_Sub_with_dupli.executor": "Run",
+    "Application.Back_Sudoku.executor": "Run",
+    "Application.Back_maze_4D.executor": "Run",
+    "Application.Back_partition_palindrome.executor": "Run",
+    "Application.Backtrack_maze.executor": "Run",
+    "Application.Bitwise_Find_the_Unique_Number.executor": "Run",
+    "Application.Bubble_sort.executor": "Run",
     "Application.Calc.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.Clone_deep_swollow.executor": "Run",
+    "Application.Comparable_compareTo.executor": "Run",
+    "Application.Comparator_lambda.executor": "Run",
+    "Application.CountFrequency.executor": "Run",
+    "Application.Create_own_Arraylist.executor": "Run",
+    "Application.Cycle_length_start.executor": "Run",
+    "Application.Cyclic_Sort_Missing_element.executor": "Run",
+    "Application.Cyclic_Sort_Missing_in_nums.executor": "Run",
+    "Application.Cyclic_many_dup.executor": "Run",
+    "Application.Cyclic_sort.executor": "Run",
+    "Application.Cyclic_sort_Set_Mismatch.executor": "Run",
+    "Application.Cyclic_sort_Smallest_positive_int.executor": "Run",
+    "Application.Exception_Handling.executor": "Run",
+    "Application.FUNC.executor": "Run",
+    "Application.FindSecondLargest.executor": "Run",
+    "Application.FuncOverloading.executor": "Run",
+    "Application.Generic.executor": "Run",
+    "Application.IntersectioTwoArray.executor": "Run",
+    "Application.Iterative_Subsets_Subsequences.executor": "Run",
+    "Application.KadaneAlgorithm.executor": "Run",
+    "Application.LL_removeDuplicates.executor": "Run",
+    "Application.LL_reorderList.executor": "Run",
+    "Application.LinRange.executor": "Run",
+    "Application.LinearS.executor": "Run",
+    "Application.LinearSearchArray.executor": "Run",
+    "Application.LinkList_single.executor": "Run",
+    "Application.MaxLinear.executor": "Run",
+    "Application.Merge_two_ll.executor": "Run",
+    "Application.Middle_of_ll.executor": "Run",
+    "Application.MinimumiLinear.executor": "Run",
+    "Application.Object_Cloning.executor": "Run",
+    "Application.Oops_1.executor": "Run",
+    "Application.Oops_2.executor": "Run",
+    "Application.Oops_Abstract_Class.executor": "Run",
+    "Application.Oops_Inheritance.executor": "Run",
+    "Application.Oops_Interface_DSA.executor": "Run",
+    "Application.Oops_abstraction.executor": "Run",
+    "Application.Oops_encapsulation.executor": "Run",
+    "Application.Oops_package.executor": "Run",
+    "Application.Oops_poly.executor": "Run",
+    "Application.Otoend.executor": "Run",
+    "Application.Pattern_Questions.executor": "Run",
+    "Application.REC_fibo.executor": "Run",
+    "Application.Rec_0_to_n.executor": "Run",
+    "Application.Rec_Combination_sum.executor": "Run",
+    "Application.Rec_Dice.executor": "Run",
+    "Application.Rec_Duplicate_sub.executor": "Run",
+    "Application.Rec_Letter_Combinations_Phone_Number.executor": "Run",
+    "Application.Rec_Merge.executor": "Run",
+    "Application.Rec_Pattern.executor": "Run",
+    "Application.Rec_Product_of_n_to_1.executor": "Run",
+    "Application.Rec_Revese_number.executor": "Run",
+    "Application.Rec_Skip_string.executor": "Run",
+    "Application.Rec_Subsequences_String.executor": "Run",
+    "Application.Rec_Subsequences_with_ASCII_Values.executor": "Run",
+    "Application.Rec_Target.executor": "Run",
+    "Application.Rec__n_to_1.executor": "Run",
+    "Application.Rec_all_subset.executor": "Run",
+    "Application.Rec_app_pl.executor": "Run",
+    "Application.Rec_binary.executor": "Run",
+    "Application.Rec_bubble_sort.executor": "Run",
+    "Application.Rec_count_ero.executor": "Run",
+    "Application.Rec_k_combination.executor": "Run",
+    "Application.Rec_merge_two_array.executor": "Run",
+    "Application.Rec_palindrome.executor": "Run",
+    "Application.Rec_permutation.executor": "Run",
+    "Application.Rec_phone_number.executor": "Run",
+    "Application.Rec_product.executor": "Run",
+    "Application.Rec_quick_sort.executor": "Run",
+    "Application.Rec_selection_sort.executor": "Run",
+    "Application.Rec_skip_char.executor": "Run",
+    "Application.Rec_sorted_arr.executor": "Run",
+    "Application.Rec_sum.executor": "Run",
+    "Application.Recursive_nsertion.executor": "Run",
+    "Application.RemoveDup.executor": "Run",
+    "Application.Remove_Duplicates_ll.executor": "Run",
+    "Application.ReverseanArray.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SOrt_linkl.executor": "Run",
+    "Application.Scope.executor": "Run",
+    "Application.Searchina2DArray.executor": "Run",
+    "Application.Sort_using_Lambda.executor": "Run",
+    "Application.SortedArray.executor": "Run",
+    "Application.String_Check_Anagram.executor": "Run",
+    "Application.String_Count_Digits_Letters_Special_Characters.executor": "Run",
+    "Application.String_Count_Frequency_of_a_Character.executor": "Run",
+    "Application.String_Count_Vowels_and_Consonants.executor": "Run",
+    "Application.String_First_Non_Repeating_Character.executor": "Run",
+    "Application.String_Remove_Duplicate_Characters.executor": "Run",
+    "Application.String_Remove_Spaces.executor": "Run",
+    "Application.String_Reverse.executor": "Run",
+    "Application.String_Reverse_Words_in_a_String.executor": "Run",
+    "Application.String_palindrome.executor": "Run",
+    "Application.Sudoku.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.VarArgs.executor": "Run",
+    "Application.b_First_last_index.executor": "Run",
     "Application.casecheak.executor": "Run",
     "Application.casecheakII.executor": "Run",
     "Application.casting.executor": "Run",
     "Application.condi.executor": "Run",
     "Application.countNumb.executor": "Run",
+    "Application.findAll.executor": "Run",
     "Application.findfibo.executor": "Run",
+    "Application.firstOccLinear.executor": "Run",
+    "Application.happy_number.executor": "Run",
     "Application.j_input.executor": "Run",
     "Application.java1.executor": "Run",
     "Application.largest.executor": "Run",
     "Application.loops.executor": "Run",
     "Application.mathmax.executor": "Run",
     "Application.reversestring.executor": "Run",
+    "Application.twoSum.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/prince/IdeaProjects/java/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/prince/IdeaProjects/java/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -107,6 +363,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -114,6 +381,46 @@
           <url>file://$PROJECT_DIR$/JAVA_NOTEZ/src/Main.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA_NOTEZ/src/LinearS.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Target.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Subsequences_String.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Dice.java</url>
+          <line>21</line>
+          <log-expression expression="&#10;log" language="JAVA" mode="CODE_FRAGMENT" />
+          <placement>INTER_LINE</placement>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA_NOTEZ/src/Rec_Dice.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_2.java</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JAVA_NOTEZ/src/Oops_Interface_DSA.java</url>
+          <line>1</line>
+          <properties class="Oops_Interface_DSA" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -23,7 +23,7 @@ public class _StackLargest_Rectangle_in_Histogram {
                     currentHeight = heights[i];
                 }
 
-                while (!stack.isEmpty() && git remote set-url origin https://github.com/Udaybhushansingh/Java-DSA.gitcurrentHeight < heights[stack.peek()]) {
+                while (!stack.isEmpty() &&currentHeight < heights[stack.peek()]) {
 
                     int height = heights[stack.pop()];
 
